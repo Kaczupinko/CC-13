@@ -1,0 +1,12 @@
+{
+  "name": "cc-13",
+  "version": "1.0.0",
+  "description": "Code-challange-day-13",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
